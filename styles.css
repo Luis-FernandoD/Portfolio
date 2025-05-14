@@ -372,3 +372,8 @@ html {
   color: #dd0031; /* Cor oficial do Git */
   font-size: 48px; /* Tamanho do ícone */
 }
+
+.warning{
+  background-color: red;
+  color: white;
+}
